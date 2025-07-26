@@ -38,4 +38,4 @@ DevOps Daily is maintained by a team of experienced DevOps practitioners passion
 
 ---
 
-<p align="center">© 2024 DevOps Daily | <a href="https://devops-daily.com/terms">Terms</a> | <a href="https://devops-daily.com/privacy">Privacy</a></p>
+<p align="center">© 2025 DevOps Daily | <a href="https://devops-daily.com/terms">Terms</a> | <a href="https://devops-daily.com/privacy">Privacy</a></p>
