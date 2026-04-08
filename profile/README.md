@@ -28,18 +28,6 @@ We believe in making DevOps knowledge accessible, practical, and actionable. Our
 - **[Toolbox](https://devops-daily.com/toolbox)** - Curated collection of DevOps tools and resources
 - **[Weekly Newsletter](https://devops-daily.com/newsletters)** - A weekly roundup of the best content delivered to your inbox
 
-## 🛠️ Open Source Projects
-
-| Project | Description |
-|---------|-------------|
-| [devops-daily](https://github.com/The-DevOps-Daily/devops-daily) | The main website - tutorials, guides, exercises, and interactive content |
-| [surge](https://github.com/The-DevOps-Daily/surge) | Next.js SaaS starter kit with auth, payments, and admin dashboard |
-| [terraform-provider-validatefx](https://github.com/The-DevOps-Daily/terraform-provider-validatefx) | Terraform provider exposing reusable validation functions |
-| [pg-wire-mock](https://github.com/The-DevOps-Daily/pg-wire-mock) | Mock PostgreSQL server for learning the wire protocol |
-| [sitewarden](https://github.com/The-DevOps-Daily/sitewarden) | Browser extension to block distracting websites and track focus sessions |
-| [the-complete-devops-roadmap](https://github.com/The-DevOps-Daily/the-complete-devops-roadmap) | The complete DevOps roadmap |
-| [feedback](https://github.com/The-DevOps-Daily/feedback) | Report issues or suggest features |
-
 ## 🤝 Join Our Community
 
 - **[Share Feedback](https://github.com/The-DevOps-Daily/feedback)** - Help us improve by reporting issues or suggesting features
